@@ -119,3 +119,5 @@ Agora é sua vez! Use o git rebase para manter seu histórico de commits limpo e
 alteracao 1
 
 alteracao 2
+
+alteracao 3
